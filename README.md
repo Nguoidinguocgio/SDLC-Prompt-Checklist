@@ -22,7 +22,7 @@ Documents are organized by SDLC phase, in folders matching the phase numbers in 
 | Folder | SDLC phase | Contents |
 |---|---|---|
 | [`requirements/`](./requirements) | Requirements and discovery (5.2) | Business requirements document template |
-| [`analysis/`](./analysis) | Analysis (5.3) | PRD prompts and the requirements checklist |
+| [`analysis/`](./analysis) | Analysis (5.3) | BRD and PRD prompts and the requirements checklist |
 | [`design/`](./design) | Design, modeling (5.4) | SAD, blueprint, UML diagram, API, database and UI/UX prompts with their checklists |
 | [`verification/`](./verification) | Verification and testing (5.7) | Test plan prompt and checklist |
 
@@ -31,6 +31,8 @@ Documents are organized by SDLC phase, in folders matching the phase numbers in 
 Prompt files for common SDLC activities, kept in the folder of the phase that uses them:
 
 - `requirements/` — the BRD template
+- `analysis/BRD_Elicitation_Prompt_IEEE_standard.md`
+- `analysis/BRD_Prompt_IEEE_standard.md`
 - `analysis/PRD_prompt.md`, `analysis/PRD_Prompt_IEEE_standard.md`, `analysis/PRD_Prompt_with_template.md`
 - `design/SAD_prompt.md`, `design/SAD_Prompt_IEEE_standard.md`, `design/SAD_Prompt_with_template_.md`
 - `design/bluePrint_design_prompt.md`
