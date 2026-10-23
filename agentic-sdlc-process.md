@@ -4,7 +4,7 @@
 >
 > Spec → Generate → Verify → Refine
 >
-> *Tham khảo: VTI Agentic AI for SDLC & SDLC-Prompt-Checklist https://github.com/minhtrantrong/SDLC-Prompt-Checklist*
+
 
 ---
 
